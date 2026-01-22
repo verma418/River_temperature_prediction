@@ -45,6 +45,7 @@ Each model is evaluated using standard regression performance metrics.
 - R² Score
 - Prediction & Deployment
 - Trained models loaded via app.py
+---  
 
 ## ⚙️ Installation & Setup
 - Clone the repository:
@@ -56,6 +57,8 @@ git clone `https://github.com/verma418/River_temperature_prediction.git`
 
  `pip install -r requirements.txt`
 
+ ---
+ 
 ## ▶️ How to Run
 - Train Models
 - python train_models.py
@@ -66,11 +69,14 @@ git clone `https://github.com/verma418/River_temperature_prediction.git`
 - Explore Notebook
 `jupyter notebook training.ipynb`
 
+---
 ## 📈 Results
 - Deep learning models (LSTM) perform well for temporal dependencies
 - Tree-based models (XGBoost, LightGBM) offer strong baseline accuracy
 - Ensemble approaches show potential for improved robustness
 - Detailed results and plots are available in training.ipynb.
+
+---
 
 ## 🌱 Applications
 - Water quality monitoring
@@ -78,6 +84,7 @@ git clone `https://github.com/verma418/River_temperature_prediction.git`
 - Environmental sustainability planning
 - Hydrological and civil engineering studies
 
+---
 ## 🛠️ Technologies Used
 - Python
 - NumPy, Pandas
@@ -86,20 +93,24 @@ git clone `https://github.com/verma418/River_temperature_prediction.git`
 - XGBoost, LightGBM
 - Jupyter Notebook
 
+---
 ## 📌 Future Improvements
 - Integration with GIS-based spatial features
 - Real-time data ingestion
 - Web-based dashboard for visualization
 - Model ensemble and uncertainty estimation
 
+---
 ## 🤝 Contributions
 
 Contributions are welcome. Please open an issue or submit a pull request for improvements or suggestions.
 
+---
 ## 📜 License
 
 This project is intended for academic and research purposes.
 
+---
 ## 👤 Author
 
 **Piyush Verma**
