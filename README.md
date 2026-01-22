@@ -119,13 +119,6 @@ This project is intended for academic and research purposes.
 
 ---
 
-If you want, I can also:
-- Add **architecture diagrams**
-- Add **model comparison tables**
-- Create a **project poster-style README**
-- Make it **conference / resume ready**
-
-Just tell me how polished you want it.
 
 
 ## 📂 Repository Structure
