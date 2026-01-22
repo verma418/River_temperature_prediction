@@ -29,6 +29,94 @@ Each model is evaluated using standard regression performance metrics.
 
 ---
 
+## 📊 Workflow
+
+- Data Collection
+- Historical river temperature and associated environmental variables
+- Preprocessing
+- Handling missing values
+- Feature scaling and time-series structuring
+- Model Training
+- Separate pipelines for ML and DL models
+- Hyperparameter tuning
+- Evaluation
+- RMSE
+- MAE
+- R² Score
+- Prediction & Deployment
+- Trained models loaded via app.py
+
+## ⚙️ Installation & Setup
+- Clone the repository:
+
+git clone `https://github.com/verma418/River_temperature_prediction.git`
+`cd River_temperature_prediction`
+
+- Install dependencies:
+
+ `pip install -r requirements.txt`
+
+## ▶️ How to Run
+- Train Models
+- python train_models.py
+
+- Run Application
+`python app.py`
+
+- Explore Notebook
+`jupyter notebook training.ipynb`
+
+## 📈 Results
+- Deep learning models (LSTM) perform well for temporal dependencies
+- Tree-based models (XGBoost, LightGBM) offer strong baseline accuracy
+- Ensemble approaches show potential for improved robustness
+- Detailed results and plots are available in training.ipynb.
+
+## 🌱 Applications
+- Water quality monitoring
+- Climate change impact assessment
+- Environmental sustainability planning
+- Hydrological and civil engineering studies
+
+## 🛠️ Technologies Used
+- Python
+- NumPy, Pandas
+- Scikit-learn
+- TensorFlow / PyTorch
+- XGBoost, LightGBM
+- Jupyter Notebook
+
+## 📌 Future Improvements
+- Integration with GIS-based spatial features
+- Real-time data ingestion
+- Web-based dashboard for visualization
+- Model ensemble and uncertainty estimation
+
+## 🤝 Contributions
+
+Contributions are welcome. Please open an issue or submit a pull request for improvements or suggestions.
+
+## 📜 License
+
+This project is intended for academic and research purposes.
+
+## 👤 Author
+
+**Piyush Verma**
+**GitHub: `@verma418`**
+
+
+---
+
+If you want, I can also:
+- Add **architecture diagrams**
+- Add **model comparison tables**
+- Create a **project poster-style README**
+- Make it **conference / resume ready**
+
+Just tell me how polished you want it.
+
+
 ## 📂 Repository Structure
 
 ```text
